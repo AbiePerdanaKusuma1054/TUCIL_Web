@@ -19,22 +19,20 @@
         <!--heading-->
         <p>Nonton Film Kuy !!</p>
         <!--paragraph-->
-        <p>Jalani harimu dengan keceriaan disetiap waktu&#8217;dan isilah waktu luangmu dengan menonton film.</p>
+        <p>Jalani harimu dengan keceriaan disetiap waktu dan isilah waktu luangmu dengan menonton film.</p>
         <!--social-->
         <div class="social-icons">
-            <a href="#"><i class="fab fa-facebook-f"></i></a>
-            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="https://github.com/AbiePerdanaKusuma1054"><i class="fab fa-github"></i></a>
             <a href="https://www.instagram.com/abiperdana.k/"><i class="fab fa-instagram"></i></a>
             <a href="https://www.youtube.com/channel/UCzBbREwF3YnFXasG9kOeZiA"><i class="fab fa-youtube"></i></a>
         </div>
         <!--copyright-->
-        <p class="copyright">Copyright by Aperku</p>
+        <p class="copyright text-muted">Copyright @ APERKU<a href="/auth/admin" class="text-secondary"> 2020</a></p>
     </div>
 </footer>
 <!--social-attach-bar-->
 <div class="social">
-    <a href="#"><i class="fab fa-facebook-f"></i></a>
-    <a href="#"><i class="fab fa-twitter"></i></a>
+    <a href="https://github.com/AbiePerdanaKusuma1054"><i class="fab fa-github"></i></a>
     <a href="https://www.instagram.com/abiperdana.k/"><i class="fab fa-instagram"></i></a>
     <a href="https://www.youtube.com/channel/UCzBbREwF3YnFXasG9kOeZiA"><i class="fab fa-youtube"></i></a>
 </div>

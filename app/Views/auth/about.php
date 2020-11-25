@@ -18,7 +18,7 @@
                         <a class="nav-link" href="#">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="<?= site_url('auth/login') ?>">Log Out</a>
+                        <a class="nav-link" href="/auth/login">Log Out</a>
                     </li>
                 </ul>
             </div>
@@ -37,8 +37,8 @@
         <img src="/img/me.jpeg" />
         <!--about-me-text-->
         <div class="about-text">
-            <p>About Me</p>
-            <p>Devolper & Designer</p>
+            <p>Abie Perdana Kusuma</p>
+            <p>1817051054</p>
             <p>Hello,My name is Abie Perdana Kusuma.I am a Student Collage at Lampung University.If you have asany Project or if you want make a software for your bisnes conatact me.I make as soon as possibale.You really like my work,if you don&#8217;t i change this until you like I give you seticfaction result.</p>
             <p>I am a Devolper and also a Designer.If you have asany Project or if you want make a software for your bussniess conatact me.I make your project as soon as possible.</p>
             <a href="https://www.instagram.com/abiperdana.k/">

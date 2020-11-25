@@ -6,21 +6,6 @@ class Auth extends BaseController
 {
 	public function login()
 	{
-		if ($this->request->getMethod() == 'post') {
-
-			$rules = [
-				'username' => 'required',
-				'password' => 'required'
-			];
-
-			$validate = $this->validate($rules);
-			if ($validate) {
-				return view('auth/index');
-			} else {
-				return redirect()->back()->withInput()->with('validation', $this->validator);
-			}
-		}
-
 		$data =  [
 			'title' => 'L O G I N | Web Project'
 		];
@@ -37,7 +22,10 @@ class Auth extends BaseController
 
 	public function index()
 	{
-		return view('auth/index');
+		$data =  [
+			'title' => 'M O V I E S | Web Project'
+		];
+		return view('auth/index', $data);
 	}
 
 	public function about()
@@ -48,23 +36,11 @@ class Auth extends BaseController
 		return view('auth/about', $data);
 	}
 
-	public function contact()
+	public function admin()
 	{
 		$data =  [
-			'title' => 'Contact Us | MOVIES.COM',
-			'alamat' => [
-				[
-					'tipe' => 'Rumah',
-					'alamat' => 'Jl.Abs No,5C',
-					'kota' => 'Lampung'
-				],
-				[
-					'tipe' => 'Kantor',
-					'alamat' => 'JL.Gada NO.21',
-					'kota' => 'lampung'
-				]
-			]
+			'title' => 'ADMIN | MOVIES.COM'
 		];
-		return view('auth/contact', $data);
+		return view('auth/admin', $data);
 	}
 }
