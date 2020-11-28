@@ -16,7 +16,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#signup">Contact</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/auth/login">Log Out</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="/login">Log Out</a></li>
                 </ul>
             </div>
         </div>

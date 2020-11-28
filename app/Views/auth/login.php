@@ -15,7 +15,7 @@
                         <a class="nav-link" href="#">Login <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/auth/register">Sign Up</a>
+                        <a class="nav-link" href="/register">Sign Up</a>
                     </li>
                 </ul>
             </div>
@@ -37,7 +37,7 @@
                             <label for="">Password</label>
                             <input autocomplete="off" autofocus="on" type="password" name="password" id="password" class="form-control">
                         </div>
-                        <a href="/auth/index" class="btn btn-outline-primary btn-block">Sign In</a>
+                        <a href="/" class="btn btn-outline-primary btn-block">Sign In</a>
                     </form>
                 </div>
             </div>

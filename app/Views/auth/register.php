@@ -12,7 +12,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/auth/login">Login</a>
+                        <a class="nav-link" href="/login">Login</a>
                     </li>
                     <li class="nav-item active">
                         <a class="nav-link" href="#">Sign Up <span class="sr-only">(current)</span></a>
@@ -49,7 +49,7 @@
                             <label for="">Password</label>
                             <input autocomplete="off" autofocus="on" type="password" name="password" id="password" class="form-control">
                         </div>
-                        <a href="/auth/login" class="btn btn-outline-primary btn-block">Sign Up</a>
+                        <a href="/login" class="btn btn-outline-primary btn-block">Sign Up</a>
                     </form>
                 </div>
             </div>

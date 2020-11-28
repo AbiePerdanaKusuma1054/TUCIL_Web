@@ -15,10 +15,10 @@
                         <a class="nav-link active" href="/">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Auth/about">About</a>
+                        <a class="nav-link" href="/about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/auth/login">Log Out</a>
+                        <a class="nav-link" href="/login">Log Out</a>
                     </li>
                 </ul>
             </div>
@@ -46,7 +46,7 @@
                         <p class="card-text"><small class="text-muted"><b>Release Date :</b> 17 November 2017</small></p>
                         <p class="card-text"><small class="text-muted"><b>Director :</b> Zack Snyder</small></p>
                         <a href="http://149.56.24.226/justice-league-2017/" class="btn btn-success">Watch Now</a>
-                        <a href="/auth/index" class="btn btn-secondary">Dashboard</a>
+                        <a href="/" class="btn btn-secondary">Dashboard</a>
                     </div>
                 </div>
             </div>

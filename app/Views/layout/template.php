@@ -27,7 +27,7 @@
             <a href="https://www.youtube.com/channel/UCzBbREwF3YnFXasG9kOeZiA"><i class="fab fa-youtube"></i></a>
         </div>
         <!--copyright-->
-        <p class="copyright text-muted">Copyright @ APERKU<a href="/auth/admin" class="text-secondary"> 2020</a></p>
+        <p class="copyright text-muted">Copyright @ APERKU<a href="/admin" class="text-secondary"> 2020</a></p>
     </div>
 </footer>
 <!--social-attach-bar-->

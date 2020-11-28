@@ -18,7 +18,7 @@
                         <a class="nav-link" href="#">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/auth/login">Log Out</a>
+                        <a class="nav-link" href="/login">Log Out</a>
                     </li>
                 </ul>
             </div>

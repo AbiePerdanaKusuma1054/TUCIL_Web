@@ -15,10 +15,10 @@
                         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Auth/about">About</a>
+                        <a class="nav-link" href="/about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/auth/login">Log Out</a>
+                        <a class="nav-link" href="/login">Log Out</a>
                     </li>
                 </ul>
             </div>
@@ -46,7 +46,7 @@
             <div class="box-1">
                 <img src="https://images-na.ssl-images-amazon.com/images/I/719S7I-%2ByBL._AC_SL1023_.jpg" width="150">
                 <p class="heading">Avengers: Age of Ultron (2015)</p>
-                <a href="/detail/marvel1">
+                <a href="/marvel1">
                     <button type="button" class="btn btn-outline-light">Detail</button>
                 </a>
             </div>
@@ -54,7 +54,7 @@
             <div class="box-2">
                 <img src="https://images-na.ssl-images-amazon.com/images/I/A1t8xCe9jwL._AC_SL1500_.jpg" width="150">
                 <p class="heading">Avengers: Infinity War (2018)</p>
-                <a href="/detail/marvel2">
+                <a href="/marvel2">
                     <button type="button" class="btn btn-outline-light">Detail</button>
                 </a>
             </div>
@@ -62,7 +62,7 @@
             <div class="box-3">
                 <img src="https://i.redd.it/q2y77v0177v21.png" width="150">
                 <p class="heading">Avengers: Endgame (2019)</p>
-                <a href="/detail/marvel3">
+                <a href="/marvel3">
                     <button type="button" class="btn btn-outline-light">Detail</button>
                 </a>
             </div>
@@ -86,7 +86,7 @@
             <div class="box-1">
                 <img src="/img/justice1.jpg" width="150">
                 <p class="heading">Batman vs Superman (2016)</p>
-                <a href="/detail/justice1">
+                <a href="/justice1">
                     <button type="button" class="btn btn-outline-light">Detail</button>
                 </a>
             </div>
@@ -94,7 +94,7 @@
             <div class="box-2">
                 <img src="https://m.media-amazon.com/images/I/716iotZX7oL.jpg" width="150">
                 <p class="heading">Justice League (2017)</p>
-                <a href="/detail/justice2">
+                <a href="/justice2">
                     <button type="button" class="btn btn-outline-light">Detail</button>
                 </a>
             </div>
@@ -102,7 +102,7 @@
             <div class="box-3">
                 <img src="https://images-na.ssl-images-amazon.com/images/I/91Nw25APFFL._AC_SL1500_.jpg" width="150">
                 <p class="heading">Wonder Womans (2017)</p>
-                <a href="/detail/justice3">
+                <a href="/justice3">
                     <button type="button" class="btn btn-outline-light">Detail</button>
                 </a>
             </div>
